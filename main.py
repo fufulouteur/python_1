@@ -1,5 +1,6 @@
-
-
+pays_actuel = "italie"
+pays_actuel ="USA"
+print(pays_actuel)
 
 
 
